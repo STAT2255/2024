@@ -14,10 +14,10 @@
   - Email: *haiying.wang@uconn.edu*
   - GitHub: [[https://github.com/Ossifragus][Ossifragus]]
 
-- Grader: TBA
-  - Email: *TBA*
+- Grader: Riyanka Bhowal
+  - Email: *dvk24005@uconn.edu*
 
-- Notes: will be posted on this [[https://github.com/stat2255/2023][GitHub repo]]: *https://github.com/stat2255/2024*.
+- Notes: will be posted on this [[https://github.com/stat2255/2024][GitHub repo]]: *https://github.com/stat2255/2024*.
 
   Students should "watch" this repository to receive notifications for any
   updates. It is highly recommended that students "fork" this repository and
