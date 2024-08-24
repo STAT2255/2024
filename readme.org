@@ -33,6 +33,12 @@ applications such as Jupyter notebooks. Emphasis on algorithmic thinking,
 efficient implementation of different data structures, control and data
 abstraction, file processing, and data analysis and visualization.
 
+* About Generative AI
+Be careful when using generative AI such as ChatGPT, CoPilot, and Gemini. They
+can be helpful for checking your code or explaining codes you don't understand,
+but they should not be relied upon to generate your code. It's crucial to fully
+understand the code you write and be able to code without access to generative
+AI.
 * Python
 An easy way to setup Python is to use [[https://docs.conda.io/en/latest/][conda]] by installing [[https://docs.conda.io/en/latest/miniconda.html][miniconda]] or
 [[https://www.anaconda.com/download/][anaconda]]. Here is are some comparisons between the two distribution [[https://conda.io/projects/conda/en/latest/user-guide/install/download.html#anaconda-or-miniconda][anaconda vs
