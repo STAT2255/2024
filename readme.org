@@ -85,7 +85,7 @@ You need [[https://pandoc.org/][pandoc]] and xelatex to export pdf files from ju
 - Download and install [[https://miktex.org/download][MiKTeX]] (better with Windows) or [[https://tug.org/mactex/][MacTeX]] (Mac only).
 - You may need to restart your anaconda prompt and/or shell for the two
   newly installed software to work. 
-- With MiKTeX the fist time you export a pdf file, you need to wait for a while,
+- With MiKTeX the fist time you export a pdf file, you need to *wait for a while*,
   because it needs to fetch necessary packages online.
 
 *** A temp ad-hoc solution -- print the webpage
@@ -96,13 +96,14 @@ Be sure to adjust the width of your browser to make the pdf print look better.
 1. Virtual Environment, Markdown (maybe Git and GitHub) 
 2. Object Types and Statements
 3. Modules
-4. Object-Oriented Programming
-5. Testing and Exception Handling
-6. Running Time Analysis
-7. Root Finding
-8. Pandas
-9. Data Visualization and Hypothesis Testing
-10. Random Variable Generation
+4. Numpy
+5. Object-Oriented Programming
+6. Testing and Exception Handling
+7. Running Time Analysis
+8. Root Finding
+9. Pandas
+10. Data Visualization and Hypothesis Testing
+11. Random Variable Generation
 
 * References
 
