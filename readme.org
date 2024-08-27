@@ -80,7 +80,7 @@ You need [[https://pandoc.org/][pandoc]] and xelatex to export pdf files from ju
 
 *** Install pandoc and xelatex
 
-- Download and install pandoc [[https://github.com/jgm/pandoc/releases/tag/3.1.7][here]]. Choose the .pkg version for Mac and the .msi
+- Download and install pandoc [[https://github.com/jgm/pandoc/releases/latest][here]]. Choose the .pkg version for Mac and the .msi
   version for Windows.
 - Download and install [[https://miktex.org/download][MiKTeX]] (better with Windows) or [[https://tug.org/mactex/][MacTeX]] (Mac only).
 - You may need to restart your anaconda prompt and/or shell for the two
