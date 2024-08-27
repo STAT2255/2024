@@ -162,6 +162,15 @@ conda env remove -n my_venv
 conda env remove -n my_venv_clone
 ```
 
+## Rename a virtual environment
+
+  * To rename a virtual environment, use
+
+```shell
+conda rename -n old_name new_name
+```
+
+
 ## Set up for jupyter notebook
 
 1. create a new virtual environment
