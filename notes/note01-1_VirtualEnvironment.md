@@ -93,6 +93,8 @@ recommended tool for installing packages from the Python Package Index
 * [PyPI](https://pypi.org/) contains more
   Python packages, while `conda` can package and distribute software for any
   language.
+* If you use `conda` to setup your python virtual evnironment, use `conda` to
+ install python packages unless it is not available from the Anaconda repository.
 
 ```shell
 conda install matplotlib=3.7.1
@@ -239,7 +241,3 @@ In case Jupyter notebook does not load correctly in you browser, you can try the
 [https://python.plainenglish.io/virtual-environments-1d09041771d](https://python.plainenglish.io/virtual-environments-1d09041771d)
 
 [https://towardsdatascience.com/beginner-friendly-virtual-environment-management-anaconda-pycharm-36178e20129f](https://towardsdatascience.com/beginner-friendly-virtual-environment-management-anaconda-pycharm-36178e20129f)
-
-```
-
-```
