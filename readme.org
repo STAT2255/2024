@@ -52,7 +52,7 @@ miniconda]].
 
 | Category                  | Weight |
 |---------------------------+--------|
-| Homework                  |    30% |
+| Homework + quizzes        |    30% |
 | Midterm                   |    30% |
 | Final                     |    40% |
 |---------------------------+--------|
