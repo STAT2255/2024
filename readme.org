@@ -57,13 +57,18 @@ miniconda]].
 | Final                     |    40% |
 |---------------------------+--------|
 
-* Exams
+* Exams and quizzes
 The midterm exam will be held in class on Thursday, and the final exam will be
 held at UConn scheduled date. They are closed book and closed
 notes. *No Make-up Exams!* The following is tentative exam schedule.
 
 - Midterm (Tentative): <2024-10-10 Thu>, in class.
 - Final: TBA
+
+Pop quizzes may be given at any time during the semester. If you have to miss a
+lecture, you have to let me know before the class so that I will use the average
+of other quizzes to replace a missed quiz score. Otherwise, you will receive a 0
+for a missed quiz.
 
 * Homework:
 
