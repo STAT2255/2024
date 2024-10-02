@@ -1,4 +1,5 @@
 
+import uuid
 class Phone:
     def __init__(self, user_name, color, size):
         self.user_name = user_name
