@@ -7,12 +7,15 @@
 
 - Time and Location
   - Time: *TuTh 9:30AM-10:45AM*
-	- Location: *AUST 344*
+  - Location: *AUST 344*
 
 - Instructor: *HaiYing (Ben) Wang*
   - Office Hours: *TuTh 11:00AM - 12:00PM, Aust 319*, or by appointment
   - Email: *haiying.wang@uconn.edu*
   - GitHub: [[https://github.com/Ossifragus][Ossifragus]]
+  - Email is the best option to reach me outside office hours. *Do not send me
+    messages in HuskyCT*. I am not check HuskyCT message regularly and will not
+    respond messages there.
 
 - Grader: Riyanka Bhowal
   - Email: *dvk24005@uconn.edu*
