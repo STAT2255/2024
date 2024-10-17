@@ -7,17 +7,20 @@
 
 - Time and Location
   - Time: *TuTh 9:30AM-10:45AM*
-	- Location: *AUST 344*
+  - Location: *AUST 344*
 
 - Instructor: *HaiYing (Ben) Wang*
   - Office Hours: *TuTh 11:00AM - 12:00PM, Aust 319*, or by appointment
   - Email: *haiying.wang@uconn.edu*
   - GitHub: [[https://github.com/Ossifragus][Ossifragus]]
+  - Email is the best option to reach me outside office hours. *Do not send me
+    messages in HuskyCT*. I am not check HuskyCT message regularly and will not
+    respond messages there.
 
-- Grader: TBA
-  - Email: *TBA*
+- Grader: Riyanka Bhowal
+  - Email: *dvk24005@uconn.edu*
 
-- Notes: will be posted on this [[https://github.com/stat2255/2023][GitHub repo]]: *https://github.com/stat2255/2024*.
+- Notes: will be posted on this [[https://github.com/stat2255/2024][GitHub repo]]: *https://github.com/stat2255/2024*.
 
   Students should "watch" this repository to receive notifications for any
   updates. It is highly recommended that students "fork" this repository and
@@ -33,6 +36,12 @@ applications such as Jupyter notebooks. Emphasis on algorithmic thinking,
 efficient implementation of different data structures, control and data
 abstraction, file processing, and data analysis and visualization.
 
+* About Generative AI
+Be careful when using generative AI such as ChatGPT, CoPilot, and Gemini. They
+can be helpful for checking your code or explaining codes you don't understand,
+but they should not be relied upon to generate your code. It's crucial to fully
+understand the code you write and be able to code without access to generative
+AI.
 * Python
 An easy way to setup Python is to use [[https://docs.conda.io/en/latest/][conda]] by installing [[https://docs.conda.io/en/latest/miniconda.html][miniconda]] or
 [[https://www.anaconda.com/download/][anaconda]]. Here is are some comparisons between the two distribution [[https://conda.io/projects/conda/en/latest/user-guide/install/download.html#anaconda-or-miniconda][anaconda vs
@@ -46,18 +55,23 @@ miniconda]].
 
 | Category                  | Weight |
 |---------------------------+--------|
-| Homework                  |    30% |
+| Homework + quizzes        |    30% |
 | Midterm                   |    30% |
 | Final                     |    40% |
 |---------------------------+--------|
 
-* Exams
+* Exams and quizzes
 The midterm exam will be held in class on Thursday, and the final exam will be
 held at UConn scheduled date. They are closed book and closed
 notes. *No Make-up Exams!* The following is tentative exam schedule.
 
-- Midterm (Tentative): <2024-10-17 Thu>, in class.
-- Final: TBA
+- Midterm (Tentative): <2024-10-10 Thu>, in class.
+- Final: <2024-12-10 Tue> 8:00AM - 10:00AM
+
+Pop quizzes may be given at any time during the semester. If you have to miss a
+lecture, you have to let me know before the class so that I will use the average
+of other quizzes to replace a missed quiz score. Otherwise, you will receive a 0
+for a missed quiz.
 
 * Homework:
 
@@ -74,12 +88,12 @@ You need [[https://pandoc.org/][pandoc]] and xelatex to export pdf files from ju
 
 *** Install pandoc and xelatex
 
-- Download and install pandoc [[https://github.com/jgm/pandoc/releases/tag/3.1.7][here]]. Choose the .pkg version for Mac and the .msi
+- Download and install pandoc [[https://github.com/jgm/pandoc/releases/latest][here]]. Choose the .pkg version for Mac and the .msi
   version for Windows.
 - Download and install [[https://miktex.org/download][MiKTeX]] (better with Windows) or [[https://tug.org/mactex/][MacTeX]] (Mac only).
 - You may need to restart your anaconda prompt and/or shell for the two
   newly installed software to work. 
-- With MiKTeX the fist time you export a pdf file, you need to wait for a while,
+- With MiKTeX the fist time you export a pdf file, you need to *wait for a while*,
   because it needs to fetch necessary packages online.
 
 *** A temp ad-hoc solution -- print the webpage
@@ -90,13 +104,14 @@ Be sure to adjust the width of your browser to make the pdf print look better.
 1. Virtual Environment, Markdown (maybe Git and GitHub) 
 2. Object Types and Statements
 3. Modules
-4. Object-Oriented Programming
-5. Testing and Exception Handling
-6. Running Time Analysis
-7. Root Finding
-8. Pandas
-9. Data Visualization and Hypothesis Testing
-10. Random Variable Generation
+4. Numpy
+5. Object-Oriented Programming
+6. Testing and Exception Handling
+7. Running Time Analysis
+8. Root Finding
+9. Pandas
+10. Data Visualization and Hypothesis Testing
+11. Random Variable Generation
 
 * References
 
